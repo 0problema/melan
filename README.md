@@ -5,8 +5,7 @@
 </p>
 
 
-# Install & Run
-   $ apt update $$ apt upgrade
+### ⇨  Install Script Di Termux   $ apt update $$ apt upgrade
    $ pkg install python
    $ pkg install git
    $ pip install requests
