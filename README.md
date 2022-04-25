@@ -5,7 +5,10 @@
 </p>
 
 
-### ⇨  Install Script Di Termux   $ apt update $$ apt upgrade
+
+## <b>installation</b>
+
+```
    $ pkg install python
    $ pkg install git
    $ pip install requests
@@ -18,3 +21,4 @@
    cd melan
    git pull
    python melan.py
+```
